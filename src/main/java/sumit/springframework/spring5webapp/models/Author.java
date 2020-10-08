@@ -1,4 +1,4 @@
-package sumit.springframework.spring5webapp.model;
+package sumit.springframework.spring5webapp.models;
 
 import java.util.HashSet;
 import java.util.Objects;
